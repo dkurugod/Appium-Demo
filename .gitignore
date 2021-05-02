@@ -1,0 +1,4 @@
+# Project exclude paths
+/Exercise Files/code/.gradle/
+/Exercise Files/code/build/
+/Exercise Files/code/build/classes/java/test/
